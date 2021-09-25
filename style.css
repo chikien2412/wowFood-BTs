@@ -1,0 +1,97 @@
+/*Css for all*/
+h2{
+    font-weight: bold;
+}
+img {
+    width: 100px;
+}
+ h5{
+    color:#ff7675;
+    text-decoration: none !important;
+    
+}
+ h5:hover{
+    color:#fab1a0;
+}
+.Deliverd{
+    color: green;
+}
+.Cancelled{
+    color: red;
+}
+/* Css for navbar*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fab1a0;
+    font-weight: bold;
+   
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ff7675;
+    
+}
+.nav .nav-item .nav-link{
+    color: #fab1a0;
+    font-weight: bold;
+}
+.nav .nav-item .nav-link:hover{
+    color: #ff7675;
+    font-weight: bold;
+}
+/* Css for Food-search */
+.slider-search{
+    background-image: url(images/bg.jpg);
+    padding: 7% 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+
+.me-2{
+    width: 500px;
+    height: 40px;
+}
+button.btn.btn.btn-warning {
+    background-color: #fab1a0;
+}
+button.btn.btn.btn-warning:hover {
+    background-color: #ff7675;
+}
+/* Css for Categories */
+.mb-3{
+        width: 40%;
+        float: left ;
+        margin: 3%;
+        border-radius: 15px;
+}
+
+
+/*Css for Manger Food*/
+
+
+
+/*Css for Dashboard*/
+.bg-color{
+    background-color: #ff7675;
+}
+.col-2{
+    width: 22%;
+}
+.me-1{
+    margin-right: 1rem;
+}
+/* Css for button */
+.btn-success{
+    background-color: #55efc4;
+}
+.btn-danger{
+    background-color: #fab1a0;
+}
+/*Css for Food menu*/
+.rounded-5{
+    border-radius: 15px;
+}
